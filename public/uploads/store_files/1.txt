@@ -1,0 +1,7 @@
+1.Ime sajta,
+2.Logo,
+3.Kategorije i podkategorije,
+4.da li treba i svaki izlog da ima svoj logo i podatke u zaglavlju,
+5.Boja za dizajn...
+6.Podaci za svakog privrednika
+7.ime prezime ili naziv firme, logo ili slika, adresa, telefon, verovatno i email
